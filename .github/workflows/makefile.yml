@@ -14,5 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: install packages
+      run: yarn install
+    
     - name: Build Extension .zip File
       run: make build
