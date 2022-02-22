@@ -14,3 +14,5 @@ RKLMVAR paketi kullanıcıları için reklamsız Exxen kullanım deneyimi sunar.
 
 NOT: Extensionu arayüzden aktif etmeyi unutmayın!
 
+## NOT: TÜM SORUMLULUK TARAFINIZA AİTTİR!
+
